@@ -1,4 +1,7 @@
 # 公共基础课-思政
+
+> 🌲 主仓库 · [资源森林 RForest（GitHub）](https://github.com/geekChen01/Resources-Forest) ｜ [Gitee 镜像](https://gitee.com/OpenSourceWalker/Resources-Forest)
+
 解压密码：RForest_ndut
 ## 资源内容
 ```
